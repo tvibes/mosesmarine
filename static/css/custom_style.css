@@ -1,0 +1,9 @@
+html, body{
+    background-color: black;
+    color: #eee;
+}
+
+.maintennace-note{
+    text-align: center;
+    margin-right: 20px;
+}

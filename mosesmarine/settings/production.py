@@ -25,7 +25,7 @@ SECRET_KEY = '7af_#b&i*@4x4pkwimd7g-c79)uoq%%ubx)_6m_5@gle(0%9%4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://www.mosesmarine.com', 'http://www.mosesmarine.com', '.mosesmarine.com', 'mosesmarine.herokuapp.com']
 
 
 # Application definition

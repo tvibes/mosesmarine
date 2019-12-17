@@ -1,0 +1,1 @@
+web: gunicorn mosesmarine.wsgi --log-file -
